@@ -16,4 +16,3 @@ e.g.
 ![nmap](/images/nmap.png)
 ![scanner.py](/images/scanner.png)
 
-As you can see, scanner.py can be faster than nmap, written in Lua.
